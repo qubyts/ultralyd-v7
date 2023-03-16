@@ -1,0 +1,2 @@
+../Core/application/BuzzerTask.c:28:6:Start_BuzzerTask	32	static
+../Core/application/BuzzerTask.c:128:6:buzzer_init	8	static

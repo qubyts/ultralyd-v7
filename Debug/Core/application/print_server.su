@@ -1,0 +1,4 @@
+../Core/application/print_server.c:44:6:PrintServerPrintf	16	static
+../Core/application/print_server.c:67:6:HAL_UART_TxCpltCallback	16	static
+../Core/application/print_server.c:76:6:PrintServer	32	static
+../Core/application/print_server.c:96:7:PrintServerPrintfInit	8	static
